@@ -632,6 +632,13 @@ body {
         font-size: 50%;
     }
 
+    .logo{
+        position: absolute;
+        top: 8px;
+        right: 15px;
+        font-size: 2.8rem;
+    }
+
     .testimonial-container{
         flex-direction: column;
         text-align: center;
